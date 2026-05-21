@@ -1,3 +1,5 @@
+Paper: This looks more like that: Enhancing Self-Explaining Models by Prototypical Relevance Propagation ([Link](https://api.nva.unit.no/publication/0198cc93fc08-26838d18-a7fe-4402-a15a-0221290c355f))
+
 # PRP
 
 The official PyTorch implementation of "This looks more like that: Enhancing Self-Explaining Models by Prototypical Relevance Propagation" [Pattern Recognition 2022](https://www.sciencedirect.com/science/article/pii/S0031320322006513) by Srishti Gautam,  Marina MC Höhne, Stine Hansen Robert Jenssen, Michael Kampffmeyer.
